@@ -1,6 +1,10 @@
 # BygfootTeamCreator
-A simple team editor programmed in 2006 (with the knowledge I had at the time for the game Bygfoot).
+A simple team editor programmed in 2006 (with the knowledge I had at the time) for the game Bygfoot.
 BygfootTeamCreator was code with the Java 1.5 SDK, so you need Java 1.5 or above to run the program.
+
+How to build + Run:
+javac -source 1.7 -target 1.7  -encoding Windows-1252 *.java
+java BygfootTeamCreator 
 
 How to use:
 BygfootTeamCreator is an easy way to create files definitions for the game Bygfoot. You only have to write the parameters and save the file as a XML file.
